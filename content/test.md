@@ -15,3 +15,8 @@
 
 # Hi test
 
+
+```lua
+
+import "somecode"
+```
